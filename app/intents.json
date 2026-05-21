@@ -1,0 +1,4901 @@
+{
+  "intents": [
+    {
+      "tag": "panic_disorder",
+      "patterns": [
+        "palpitations",
+        "sweating",
+        "trembling",
+        "shortness of breath",
+        "fear of losing control",
+        "dizziness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "vocal_cord_polyp",
+      "patterns": [
+        "hoarseness",
+        "vocal changes",
+        "vocal fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "turner_syndrome",
+      "patterns": [
+        "short stature",
+        "gonadal dysgenesis",
+        "webbed neck",
+        "lymphedema"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cryptorchidism",
+      "patterns": [
+        "absence or undescended testicle(s)",
+        "empty scrotum",
+        "smaller or underdeveloped testicle(s)",
+        "inguinal hernia",
+        "abnormal positioning of the testicle(s) (higher in the groin area)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "ethylene_glycol_poisoning-1",
+      "patterns": [
+        "nausea",
+        "vomiting",
+        "abdominal pain",
+        "general malaise",
+        "weakness",
+        "increased thirst",
+        "frequent urination"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "ethylene_glycol_poisoning-2",
+      "patterns": [
+        "metabolic acidosis",
+        "apid breathing",
+        "rapid heart rate",
+        "confusion",
+        "headache",
+        "dizziness",
+        "seizures"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "ethylene_glycol_poisoning-3",
+      "patterns": [
+        "decreased urine output",
+        "swelling in the legs and ankles",
+        "and signs of fluid overload",
+        "severe kidney damage"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "atrophic_vaginitis",
+      "patterns": [
+        "vaginal dryness",
+        "vaginal burning",
+        "frequent urination",
+        "urinary tract infections",
+        "painful intercourse"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fracture",
+      "patterns": [
+        "pain",
+        "swelling",
+        "bruising",
+        "deformity",
+        "difficulty moving",
+        "loss of function"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cellulitis",
+      "patterns": [
+        "redness",
+        "pain",
+        "tenderness",
+        "swelling",
+        "skin changes",
+        "lymph node enlargement"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "eye_alignment_disorder",
+      "patterns": [
+        "double vision",
+        "eye fatigue",
+        "poor depth perception",
+        "head tilting"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "headache_after_lumbar_puncture",
+      "patterns": [
+        "throbbing headache"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pyloric_stenosis",
+      "patterns": [
+        "persistent hunger",
+        "weight loss",
+        "dehydration",
+        "visible peristalsis",
+        "palpable mass",
+        "fussiness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "adenoid_cystic_carcinoma",
+      "patterns": [
+        "lump",
+        "swelling",
+        "facial numbness",
+        "tingling"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pleomorphic_adenoma",
+      "patterns": [
+        "painless lump or swelling",
+        "facial changes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "warthin_tumor",
+      "patterns": [
+        "painless lump or swelling",
+        "facial changes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "mucoepidermoid_carcinoma",
+      "patterns": [
+        "lump",
+        "swelling",
+        "difficulty",
+        "pain when swallowing and speaking",
+        "facial weakness",
+        "facial paralysis"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "acinic_cell_carcinoma",
+      "patterns": [
+        "lump",
+        "swelling",
+        "facial changes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "mucocele",
+      "patterns": [
+        "painless fluid-filled swelling in the oral cavity"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "osteochondrosis",
+      "patterns": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "reduced range of motion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "sialolithiasis",
+      "patterns": [
+        "swelling",
+        "pain",
+        "tenderness",
+        "difficulty eating"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "submandibular_stones",
+      "patterns": [
+        "swelling",
+        "pain",
+        "dry mouth",
+        "bad taste"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "parotid_stones",
+      "patterns": [
+        "swelling",
+        "pain",
+        "dry mouth",
+        "bad taste"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "recurrent_salivary_stones",
+      "patterns": [
+        "frequent episodes of stone formation"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "wharton's_duct_stones",
+      "patterns": [
+        "swelling",
+        "pain",
+        "dry mouth",
+        "bad taste"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "mumps",
+      "patterns": [
+        "swollen salivary glands (usually parotid)",
+        "fever",
+        "headache",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "ludwig's_angina",
+      "patterns": [
+        "severe swelling of the floor of the mouth",
+        "fever",
+        "difficulty swallowing",
+        "drooling"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "mucocele",
+      "patterns": [
+        "painless swelling",
+        "usually on the lower lip or floor of the mouth"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "abscess",
+      "patterns": [
+        "swelling",
+        "pain",
+        "redness",
+        "fever",
+        "pus formation"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "sj\u00f6gren's_syndrome",
+      "patterns": [
+        "dry mouth and eyes",
+        "fatigue",
+        "joint pain",
+        "dry skin"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "open-angle_glaucoma",
+      "patterns": [
+        "gradual loss of peripheral vision",
+        "tunnel vision"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "angle-closure_glaucoma",
+      "patterns": [
+        "severe eye pain",
+        "headache",
+        "blurred vision",
+        "halos around lights",
+        "nausea and vomiting"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "normal-tension_glaucoma",
+      "patterns": [
+        "gradual loss of vision",
+        "visual field defects"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "congenital_glaucoma",
+      "patterns": [
+        "cloudy or hazy eyes",
+        "excessive tearing",
+        "sensitivity to light"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "secondary_glaucoma",
+      "patterns": [
+        "varies depending on the underlying cause"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pigmentary_glaucoma",
+      "patterns": [
+        "blurred vision",
+        "halos around lights",
+        "eye pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "exfoliation_glaucoma",
+      "patterns": [
+        "elevated intraocular pressure",
+        "visual field loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "ocular_hypertension",
+      "patterns": [
+        "elevated intraocular pressure without optic nerve damage"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "low-tension_glaucoma",
+      "patterns": [
+        "gradual loss of vision",
+        "visual field defects"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "anorexia_nervosa",
+      "patterns": [
+        "extreme weight loss",
+        "fear of gaining weight",
+        "distorted body image"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "bulimia_nervosa",
+      "patterns": [
+        "recurrent episodes of binge eating followed by purging behaviors"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "binge_eating_disorder",
+      "patterns": [
+        "recurrent episodes of binge eating without compensatory behaviors"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "avoidant/restrictive_food_intake_disorder_(arfid)",
+      "patterns": [
+        "avoidance or restriction of certain foods or entire food groups",
+        "significant weight loss or failure to gain weight"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "other_specified_feeding_or_eating_disorder_(osfed)",
+      "patterns": [
+        "symptoms that do not meet the full criteria for a specific eating disorder"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "orthorexia_nervosa",
+      "patterns": [
+        "obsessive focus on \"clean\" eating",
+        "healthy food choices"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pica",
+      "patterns": [
+        "persistent consumption of non-food substances"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "rumination_disorder",
+      "patterns": [
+        "repeated regurgitation and re-chewing of food"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+   {
+  "tag": "sedatives_poisoning",
+  "patterns": [
+    "I feel very drowsy",
+    "I am extremely sleepy and confused",
+    "my breathing is slow",
+    "I have slowed breathing and feel weak",
+    "feeling very sleepy and not alert",
+    "I feel sedated and confused",
+    "breathing is becoming slower",
+    "I am not able to stay awake"
+  ],
+  "responses": [
+    "These symptoms may indicate sedative poisoning. Please seek immediate medical attention."
+  ]
+},
+    {
+      "tag": "pyelonephritis",
+      "patterns": [
+        "fever",
+        "chills",
+        "back or flank pain",
+        "frequent urination"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "rotator_cuff_injury",
+      "patterns": [
+        "shoulder pain",
+        "weakness or loss of strength",
+        "limited range of motion",
+        "shoulder stiffness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fibromyalgia",
+      "patterns": [
+        "widespread musculoskeletal pain",
+        "fatigue",
+        "sleep disturbances"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_fatigue_syndrome",
+      "patterns": [
+        "extreme fatigue",
+        "cognitive difficulties",
+        "unrefreshing sleep"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "complex_regional_pain_syndrome_(crps)",
+      "patterns": [
+        "severe and persistent pain",
+        "changes in skin color or temperature",
+        "swelling",
+        "stiffness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "myofascial_pain_syndrome",
+      "patterns": [
+        "localized muscle pain",
+        "trigger points"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_migraine",
+      "patterns": [
+        "recurrent",
+        "disabling migraines"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "neuropathic_pain",
+      "patterns": [
+        "shooting or burning pain",
+        "tingling or numbness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gestational_diabetes",
+      "patterns": [
+        "high blood sugar levels during pregnancy"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pregnancy-induced_hypertension",
+      "patterns": [
+        "high blood pressure during pregnancy"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gestational_hypertension",
+      "patterns": [
+        "high blood pressure without proteinuria (preeclampsia)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "preeclampsia",
+      "patterns": [
+        "high blood pressure",
+        "proteinuria",
+        "swelling",
+        "headaches",
+        "visual disturbances"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hyperemesis_gravidarum",
+      "patterns": [
+        "severe nausea and vomiting during pregnancy"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "urinary_tract_infection_(uti)",
+      "patterns": [
+        "painful urination",
+        "frequent urination",
+        "pelvic pain",
+        "cloudy urine"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "anemia",
+      "patterns": [
+        "fatigue",
+        "weakness",
+        "pale skin",
+        "shortness of breath"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pregnancy-related_back_pain",
+      "patterns": [
+        "lower back pain",
+        "discomfort in the pelvic area"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "round_ligament_pain",
+      "patterns": [
+        "sharp or aching pain in the lower abdomen or groin"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "placenta_previa",
+      "patterns": [
+        "vaginal bleeding",
+        "painless bleeding in the third trimester"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "carpal_tunnel_syndrome",
+      "patterns": [
+        "tingling",
+        "numbness",
+        "and pain in the hand and fingers"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "sciatica",
+      "patterns": [
+        "sharp pain",
+        "tingling",
+        "or numbness that radiates from the lower back through the hips and down the leg"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "varicose_veins",
+      "patterns": [
+        "enlarged",
+        "swollen veins",
+        "often in the legs"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hemorrhoids",
+      "patterns": [
+        "swollen",
+        "itchy",
+        "or painful veins in the rectal area"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gestational_cholestasis",
+      "patterns": [
+        "itchy skin",
+        "particularly on the hands and feet"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "liver_cancer",
+      "patterns": [
+        "abdominal pain",
+        "jaundice (yellowing of the skin and eyes)",
+        "unexplained weight loss",
+        "loss of appetite",
+        "fatigue",
+        "nausea",
+        "vomiting"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "atelectasis",
+      "patterns": [
+        "difficulty breathing",
+        "rapid breathing",
+        "chest pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "ectopic_pregnancy",
+      "patterns": [
+        "vaginal bleeding",
+        "abdominal pain or cramping",
+        "shoulder pain (if the fallopian tube ruptures)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "choledocholithiasis",
+      "patterns": [
+        "abdominal pain (often in the upper right quadrant)",
+        "jaundice",
+        "dark urine",
+        "pale stools",
+        "nausea",
+        "vomiting",
+        "endoscopic retrograde cholangiopancreatography (ercp) with stone removal",
+        "sphincterotomy",
+        "cholecystectomy"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cirrhosis",
+      "patterns": [
+        "fatigue",
+        "jaundice",
+        "abdominal swelling (ascites)",
+        "easy bruising and bleeding",
+        "confusion",
+        "loss of appetite",
+        "weight loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "thoracic_aortic_aneurysm",
+      "patterns": [
+        "chest or back pain",
+        "shortness of breath",
+        "hoarseness",
+        "difficulty swallowing"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "subdural_hemorrhage",
+      "patterns": [
+        "headache",
+        "confusion",
+        "dizziness",
+        "nausea or vomiting",
+        "seizures",
+        "weakness or numbness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "congenital_rubella",
+      "patterns": [
+        "developmental delays",
+        "intellectual disability",
+        "hearing loss",
+        "vision problems",
+        "heart defects",
+        "liver or spleen enlargement",
+        "rash at birth"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "diabetic_retinopathy",
+      "patterns": [
+        "blurred or distorted vision",
+        "floaters",
+        "impaired color vision",
+        "dark or empty areas in the visual field",
+        "vision loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fibromyalgia",
+      "patterns": [
+        "widespread musculoskeletal pain",
+        "fatigue",
+        "sleep disturbances",
+        "cognitive difficulties (fibro fog)",
+        "mood changes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "ischemia_of_the_bowel",
+      "patterns": [
+        "severe abdominal pain",
+        "bloody stools",
+        "diarrhea",
+        "nausea",
+        "vomiting",
+        "fever",
+        "rapid heart rate",
+        "low blood pressure"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fetal_alcohol_syndrome",
+      "patterns": [
+        "growth deficiencies",
+        "facial abnormalities",
+        "developmental delays",
+        "intellectual disability"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "peritonitis",
+      "patterns": [
+        "severe abdominal pain",
+        "tenderness",
+        "bloating",
+        "fever",
+        "nausea",
+        "vomiting",
+        "loss of appetite",
+        "increased heart rate"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "abdominal_injury",
+      "patterns": [
+        "abdominal pain",
+        "tenderness",
+        "bruising",
+        "swelling",
+        "difficulty breathing",
+        "nausea",
+        "vomiting",
+        "changes in bowel movements",
+        "blood in urine or stool"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "acute_pancreatitis",
+      "patterns": [
+        "severe upper abdominal pain",
+        "nausea",
+        "vomiting",
+        "fever",
+        "rapid pulse",
+        "swollen and tender abdomen",
+        "jaundice"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "thrombophlebitis",
+      "patterns": [
+        "redness",
+        "warmth",
+        "swelling",
+        "and tenderness along a vein",
+        "pain or discomfort",
+        "skin discoloration",
+        "visible veins",
+        "fever"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "asthma",
+      "patterns": [
+        "recurrent episodes of wheezing",
+        "shortness of breath",
+        "chest tightness",
+        "coughing",
+        "especially at night or in response to triggers such as allergens or exercise"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "restless_leg_syndrome",
+      "patterns": [
+        "uncomfortable sensation in the legs",
+        "usually in the evening or at night",
+        "urge to move legs for relief"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "emphysema",
+      "patterns": [
+        "shortness of breath",
+        "wheezing",
+        "chronic cough",
+        "chest tightness",
+        "fatigue",
+        "weight loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "induced_abortion",
+      "patterns": [
+        "vaginal bleeding",
+        "cramping",
+        "abdominal pain",
+        "nausea",
+        "fatigue",
+        "emotional distress"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "acute_sinusitis",
+      "patterns": [
+        "facial pain or pressure",
+        "nasal congestion",
+        "thick nasal discharge",
+        "post-nasal drip",
+        "cough",
+        "headache",
+        "fatigue",
+        "fever (in some cases)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "von_hippel-lindau_disease",
+      "patterns": [
+        "hemangioblastomas (tumors in the brain",
+        "spinal cord",
+        "or other organs)",
+        "retinal angiomas (abnormal blood vessel growth in the retina)",
+        "renal cell carcinomas (kidney tumors)",
+        "pheochromocytomas (adrenal gland tumors)",
+        "pancreatic cysts/tumors",
+        "other tumors or cysts"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "alcohol_use_disorder",
+      "patterns": [
+        "cravings for alcohol",
+        "inability to control or limit alcohol consumption",
+        "withdrawal symptoms (such as tremors",
+        "anxiety",
+        "sweating) when attempting to stop or reduce alcohol use",
+        "continued use despite negative consequences (such as relationship problems",
+        "health issues)",
+        "neglecting responsibilities",
+        "tolerance to alcohol"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "opioid_use_disorder",
+      "patterns": [
+        "compulsive use of opioids",
+        "strong desire or cravings for opioids",
+        "inability to control or reduce opioid use",
+        "withdrawal symptoms (such as nausea",
+        "muscle aches",
+        "anxiety) when attempting to stop or reduce use",
+        "tolerance to opioids",
+        "continued use despite negative consequences (such as legal issues",
+        "health problems)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "stimulant_use_disorder",
+      "patterns": [
+        "increased energy and alertness",
+        "euphoria",
+        "decreased appetite",
+        "increased heart rate and blood pressure",
+        "insomnia",
+        "restlessness",
+        "irritability",
+        "paranoia",
+        "psychosis (in severe cases)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cannabis_use_disorder",
+      "patterns": [
+        "increased appetite",
+        "relaxation",
+        "altered perception of time",
+        "impaired memory and concentration",
+        "bloodshot eyes",
+        "anxiety or paranoia (in some individuals)",
+        "withdrawal symptoms (such as irritability",
+        "insomnia) when attempting to stop or reduce cannabis use",
+        "continued use despite negative consequences (such as relationship problems",
+        "job difficulties)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "benzodiazepine_use_disorder",
+      "patterns": [
+        "sedation",
+        "relaxation",
+        "reduced anxiety",
+        "drowsiness",
+        "poor coordination",
+        "memory impairment",
+        "withdrawal symptoms (such as rebound anxiety",
+        "insomnia",
+        "tremors) when attempting to stop or reduce benzodiazepine use",
+        "continued use despite negative consequences (such as relationship problems",
+        "health risks)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hallucinogen_use_disorder",
+      "patterns": [
+        "altered perception of reality",
+        "visual or auditory hallucinations",
+        "changes in sensory experiences",
+        "introspective thoughts",
+        "feelings of connection or disconnection",
+        "anxiety or paranoia (in some individuals)",
+        "flashbacks (in some individuals)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "sedative,_hypnotic,_or_anxiolytic_use_disorder",
+      "patterns": [
+        "sedation",
+        "relaxation",
+        "reduced anxiety",
+        "drowsiness",
+        "poor coordination",
+        "memory impairment",
+        "withdrawal symptoms (such as rebound anxiety",
+        "insomnia",
+        "tremors) when attempting to stop or reduce use",
+        "continued use despite negative consequences (such as relationship problems",
+        "health risks)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "postpartum_depression",
+      "patterns": [
+        "persistent feelings of sadness",
+        "emptiness",
+        "or hopelessness",
+        "frequent crying",
+        "irritability",
+        "loss of interest or pleasure in activities",
+        "difficulty bonding with the baby",
+        "changes in appetite or sleep patterns",
+        "overwhelming fatigue",
+        "feelings of guilt or worthlessness",
+        "trouble concentrating or making decisions",
+        "thoughts of self-harm or harming the baby"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "coronary_atherosclerosis",
+      "patterns": [
+        "chest pain or discomfort (angina)",
+        "shortness of breath",
+        "fatigue",
+        "irregular heartbeat",
+        "dizziness",
+        "nausea",
+        "sweating",
+        "jaw or arm pain (in some cases)",
+        "heart attack (when a coronary artery becomes completely blocked)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "spondylitis",
+      "patterns": [
+        "chronic back pain and stiffness",
+        "especially in the morning or after periods of inactivity",
+        "limited range of motion in the spine",
+        "fatigue",
+        "inflammation and pain in other joints (such as hips",
+        "shoulders",
+        "knees)",
+        "discomfort or pain in the neck",
+        "difficulty maintaining proper posture",
+        "tenderness or swelling in affected areas",
+        "tingling or numbness in extremities in severe cases"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pituitary_adenoma",
+      "patterns": [
+        "headaches",
+        "vision problems (such as blurred vision or loss of peripheral vision)",
+        "hormonal imbalances (such as excessive production or deficiency of specific hormones)",
+        "fatigue",
+        "weight gain or loss",
+        "menstrual irregularities",
+        "infertility",
+        "erectile dysfunction",
+        "growth abnormalities in children",
+        "mood changes",
+        "cognitive impairments"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "uterine_fibroids",
+      "patterns": [
+        "heavy or prolonged menstrual periods",
+        "pelvic pain or pressure",
+        "frequent urination",
+        "difficulty emptying the bladder",
+        "constipation",
+        "backache",
+        "leg pain",
+        "enlarged abdomen or uterus",
+        "infertility or recurrent miscarriages (in some cases)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "idiopathic_nonmenstrual_bleeding",
+      "patterns": [
+        "abnormal vaginal bleeding outside of the menstrual period",
+        "unpredictable bleeding episodes",
+        "bleeding after sexual intercourse",
+        "bleeding after menopause",
+        "spotting or light bleeding between periods",
+        "prolonged or heavy bleeding"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chalazion",
+      "patterns": [
+        "painful",
+        "red lump or swelling on the eyelid",
+        "usually on the upper eyelid",
+        "sensitivity to light",
+        "blurred vision (if the chalazion affects the line of sight)",
+        "mild discomfort",
+        "tenderness",
+        "localized inflammation and swelling"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "ovarian_torsion",
+      "patterns": [
+        "sudden and severe abdominal or pelvic pain on one side",
+        "sharp or stabbing pain",
+        "nausea",
+        "vomiting",
+        "fever",
+        "rapid heartbeat",
+        "abdominal tenderness",
+        "bloating",
+        "swelling",
+        "pain during intercourse",
+        "abnormal bleeding or spotting"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "vaginal_yeast_infection",
+      "patterns": [
+        "itching and irritation in the vagina and vulva",
+        "redness and swelling of the vulva",
+        "white",
+        "thick",
+        "clumpy vaginal discharge (resembling cottage cheese)",
+        "burning sensation during urination",
+        "pain during sexual intercourse",
+        "rash or soreness in the affected area"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "mastoiditis",
+      "patterns": [
+        "ear pain (particularly behind the ear)",
+        "swelling and redness of the ear or the area behind the ear",
+        "fever",
+        "headache",
+        "hearing loss or impaired hearing",
+        "drainage of fluid or pus from the ear",
+        "earache",
+        "irritability (in infants and young children)",
+        "tenderness or pain when touching the area",
+        "mastoid bone protrusion or swelling"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "lung_contusion",
+      "patterns": [
+        "chest pain (sharp or dull)",
+        "difficulty breathing or shortness of breath",
+        "rapid or shallow breathing",
+        "coughing up blood or pink-tinged sputum",
+        "decreased oxygen levels",
+        "wheezing",
+        "cyanosis (bluish discoloration of the skin)",
+        "chest wall bruising",
+        "rib fractures (associated injuries)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hypertrophic_obstructive_cardiomyopathy_(hocm)",
+      "patterns": [
+        "shortness of breath",
+        "especially during physical activity or exertion",
+        "chest pain or discomfort",
+        "dizziness or lightheadedness",
+        "fainting or near-fainting episodes",
+        "heart palpitations (rapid or irregular heartbeat)",
+        "fatigue",
+        "swelling in the ankles",
+        "feet",
+        "or legs"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pulmonary_eosinophilia",
+      "patterns": [
+        "cough",
+        "shortness of breath",
+        "wheezing",
+        "chest pain",
+        "fever",
+        "night sweats",
+        "fatigue",
+        "weight loss",
+        "elevated eosinophil count in the blood or sputum"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "corneal_disorder",
+      "patterns": [
+        "blurred or hazy vision",
+        "eye pain or discomfort",
+        "redness or irritation of the eye",
+        "excessive tearing",
+        "sensitivity to light (photophobia)",
+        "foreign body sensation",
+        "dryness or excessive tearing",
+        "corneal abrasions or ulcers",
+        "distorted or irregular corneal shape",
+        "vision loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "foreign_body_in_the_gastrointestinal_tract",
+      "patterns": [
+        "abdominal pain or discomfort",
+        "difficulty swallowing",
+        "choking or gagging",
+        "drooling",
+        "nausea or vomiting",
+        "loss of appetite",
+        "chest pain or pressure",
+        "respiratory distress",
+        "coughing or wheezing",
+        "gastrointestinal bleeding",
+        "bowel obstruction",
+        "perforation of the digestive tract"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "endophthalmitis",
+      "patterns": [
+        "eye pain",
+        "redness",
+        "swelling",
+        "blurred vision",
+        "decreased vision",
+        "floaters (dark spots or cobwebs in the vision)",
+        "increased sensitivity to light (photophobia)",
+        "discharge from the eye",
+        "excessive tearing",
+        "fever"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "achalasia",
+      "patterns": [
+        "difficulty swallowing"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "conductive_hearing_loss",
+      "patterns": [
+        "reduced hearing sensitivity",
+        "muffled or blocked sound"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "abdominal_hernia",
+      "patterns": [
+        "visible bulge or swelling",
+        "discomfort or pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "marijuana_abuse",
+      "patterns": [
+        "impaired memory and cognition",
+        "altered judgment",
+        "anxiety"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cryptococcosis",
+      "patterns": [
+        "headache",
+        "fever",
+        "fatigue",
+        "cough",
+        "meningitis",
+        "pneumonia"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "obesity",
+      "patterns": [
+        "excessive body weight",
+        "increased risk of chronic conditions"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "indigestion",
+      "patterns": [
+        "abdominal pain",
+        "bloating",
+        "heartburn",
+        "nausea",
+        "acidic taste"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "bursitis",
+      "patterns": [
+        "joint pain",
+        "swelling",
+        "tenderness",
+        "limited range of motion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "esophageal_cancer",
+      "patterns": [
+        "difficulty swallowing",
+        "unintentional weight loss",
+        "chest pain",
+        "hoarseness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pulmonary_congestion",
+      "patterns": [
+        "shortness of breath",
+        "cough",
+        "wheezing",
+        "fatigue",
+        "chest discomfort or tightness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "juvenile_rheumatoid_arthritis",
+      "patterns": [
+        "joint pain",
+        "swelling",
+        "stiffness",
+        "limited range of motion",
+        "fever",
+        "rash"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "actinic_keratosis",
+      "patterns": [
+        "rough",
+        "scaly patches on the skin",
+        "usually in sun-exposed areas"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "acute_otitis_media",
+      "patterns": [
+        "ear pain",
+        "fever",
+        "fluid drainage from the ear",
+        "hearing loss or muffled hearing in the affected ear"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "astigmatism",
+      "patterns": [
+        "blurred or distorted vision",
+        "eye strain",
+        "headaches",
+        "uneven curvature of cornea"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "tuberous_sclerosis",
+      "patterns": [
+        "benign tumors in various organs",
+        "seizures",
+        "developmental delays",
+        "skin abnormalities"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "empyema",
+      "patterns": [
+        "fever",
+        "chest pain",
+        "productive cough with foul-smelling or bloody sputum"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "presbycusis",
+      "patterns": [
+        "gradual hearing loss",
+        "difficulty hearing high-pitched sounds",
+        "speech sounds muffled or unclear"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "neonatal_jaundice",
+      "patterns": [
+        "yellowing of the skin and eyes",
+        "pale stools",
+        "dark urine"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "dislocation_of_the_elbow",
+      "patterns": [
+        "severe pain",
+        "visible deformity",
+        "swelling",
+        "inability to move the elbow",
+        "numbness or tingling in the hand/arm"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "spondylosis",
+      "patterns": [
+        "neck or back pain",
+        "stiffness",
+        "limited range of motion",
+        "numbness or weakness in the extremities"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "herpangina",
+      "patterns": [
+        "sore throat",
+        "fever",
+        "painful sores or blisters in the mouth and throat",
+        "difficulty swallowing",
+        "loss of appetite"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "poisoning_due_to_antidepressants",
+      "patterns": [
+        "nausea",
+        "vomiting",
+        "drowsiness",
+        "dizziness",
+        "confusion",
+        "seizures",
+        "changes in heart rate",
+        "low blood pressure",
+        "respiratory distress"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "infection_of_open_wound",
+      "patterns": [
+        "redness",
+        "swelling",
+        "warmth",
+        "pain or tenderness at the wound site",
+        "pus or drainage from the wound",
+        "fever",
+        "malaise"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "protein_deficiency",
+      "patterns": [
+        "muscle wasting",
+        "fatigue",
+        "weakness",
+        "delayed wound healing",
+        "swelling of the limbs",
+        "hair loss",
+        "impaired immunity"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "myoclonus",
+      "patterns": [
+        "sudden",
+        "brief muscle contractions or jerks",
+        "often affecting the arms",
+        "legs",
+        "or face"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "bone_spur_of_the_calcaneus",
+      "patterns": [
+        "heel pain",
+        "especially when walking or standing",
+        "tenderness",
+        "swelling",
+        "inflammation of the surrounding tissue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "von_willebrand_disease",
+      "patterns": [
+        "easy or excessive bruising",
+        "prolonged or excessive bleeding from cuts or injuries",
+        "frequent nosebleeds",
+        "heavy or prolonged menstrual periods",
+        "bleeding gums",
+        "blood in urine or stool"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "heart_block",
+      "patterns": [
+        "fatigue",
+        "dizziness",
+        "fainting",
+        "chest pain or discomfort",
+        "shortness of breath",
+        "irregular heart rhythms"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "colonic_polyp",
+      "patterns": [
+        "most colonic polyps do not cause symptoms. some larger polyps or certain types may cause rectal bleeding or changes in bowel habits",
+        "such as diarrhea or constipation."
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hypospadias",
+      "patterns": [
+        "abnormal positioning of the urethral opening on the underside of the penis",
+        "penile curvature",
+        "spraying of urine",
+        "difficulty in urination"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "magnesium_deficiency",
+      "patterns": [
+        "muscle twitches or cramps",
+        "fatigue",
+        "weakness",
+        "loss of appetite",
+        "nausea",
+        "vomiting",
+        "irritability",
+        "mental confusion",
+        "irregular heartbeat",
+        "tingling or numbness",
+        "personality changes",
+        "seizures"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "female_infertility_of_unknown_cause",
+      "patterns": [
+        "inability to conceive after one year of unprotected intercourse",
+        "irregular or absent menstrual cycles",
+        "hormonal imbalances",
+        "age-related factors",
+        "other"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pericarditis",
+      "patterns": [
+        "chest pain (sharp and stabbing)",
+        "worsens with deep breaths or lying down",
+        "fever"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "attention_deficit_hyperactivity_disorder_(adhd)",
+      "patterns": [
+        "inattention",
+        "hyperactivity",
+        "impulsivity"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "neuromyelitis_optica",
+      "patterns": [
+        "optic neuritis (vision loss",
+        "pain with eye movement)",
+        "transverse myelitis (weakness",
+        "numbness",
+        "or paralysis of the limbs",
+        "loss of bladder or bowel control)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pulmonic_valve_disease",
+      "patterns": [
+        "fatigue",
+        "shortness of breath",
+        "chest pain or discomfort",
+        "heart palpitations",
+        "fainting or lightheadedness",
+        "swollen legs or ankles"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "tietze_syndrome",
+      "patterns": [
+        "chest pain",
+        "swelling and tenderness of the cartilage connecting the ribs to the breastbone"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cranial_nerve_palsy",
+      "patterns": [
+        "depends on the specific cranial nerve involved; symptoms can include vision changes",
+        "eye movement abnormalities",
+        "facial weakness or paralysis",
+        "difficulty swallowing or speaking",
+        "loss of sensation in the face or other areas"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "conversion_disorder",
+      "patterns": [
+        "neurological symptoms that cannot be explained by a medical condition or injury",
+        "such as paralysis",
+        "blindness",
+        "seizures",
+        "or difficulty speaking"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "complex_regional_pain_syndrome",
+      "patterns": [
+        "severe and chronic pain",
+        "often in the limbs",
+        "with associated swelling",
+        "changes in skin color or temperature",
+        "abnormal sweating",
+        "limited range of motion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "otosclerosis",
+      "patterns": [
+        "hearing loss (gradual and progressive)",
+        "tinnitus (ringing in the ears)",
+        "dizziness or balance problems"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hypothyroidism",
+      "patterns": [
+        "fatigue",
+        "weight gain",
+        "sensitivity to cold",
+        "dry skin",
+        "constipation",
+        "depression",
+        "muscle weakness",
+        "elevated cholesterol levels"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "primary_insomnia",
+      "patterns": [
+        "difficulty falling asleep or staying asleep",
+        "daytime sleepiness",
+        "irritability",
+        "difficulty concentrating"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "lice",
+      "patterns": [
+        "itching and visible presence of lice or nits (eggs) in the hair"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "vitamin_b12_deficiency",
+      "patterns": [
+        "fatigue",
+        "weakness",
+        "pale skin",
+        "shortness of breath",
+        "tingling or numbness in the hands and feet",
+        "balance problems",
+        "sore tongue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "vulvodynia",
+      "patterns": [
+        "persistent pain or discomfort in the vulva",
+        "burning",
+        "stinging",
+        "rawness",
+        "itching"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "endometriosis",
+      "patterns": [
+        "pelvic pain (during menstruation",
+        "intercourse",
+        "or bowel movements)",
+        "heavy menstrual bleeding",
+        "infertility"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "vasculitis",
+      "patterns": [
+        "inflammation of blood vessels leading to various symptoms depending on the affected organs",
+        "including rash",
+        "fever",
+        "fatigue",
+        "muscle and joint pain",
+        "shortness of breath",
+        "weight loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "concussion",
+      "patterns": [
+        "headache",
+        "dizziness",
+        "nausea or vomiting",
+        "confusion",
+        "memory problems",
+        "sensitivity to light or noise",
+        "mood changes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "oral_leukoplakia",
+      "patterns": [
+        "white patches or plaques in the mouth",
+        "often on the tongue or inside of the cheeks",
+        "that cannot be scraped off"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_kidney_disease",
+      "patterns": [
+        "fatigue",
+        "swelling of the legs or ankles",
+        "decreased appetite",
+        "difficulty concentrating",
+        "increased urination or urine changes",
+        "blood in urine",
+        "high blood pressure"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "bladder_disorder",
+      "patterns": [
+        "frequent urination",
+        "urgency",
+        "pelvic pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chorioretinitis",
+      "patterns": [
+        "eye pain",
+        "blurred vision",
+        "sensitivity to light"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "priapism",
+      "patterns": [
+        "persistent",
+        "painful erection"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "myositis",
+      "patterns": [
+        "muscle weakness",
+        "pain",
+        "inflammation"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "mononucleosis",
+      "patterns": [
+        "fatigue",
+        "sore throat",
+        "swollen lymph nodes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "neuralgia",
+      "patterns": [
+        "sharp",
+        "shooting pain along the affected nerve"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "polycystic_kidney_disease",
+      "patterns": [
+        "abdominal pain",
+        "high blood pressure",
+        "kidney cysts"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "bipolar_disorder",
+      "patterns": [
+        "mood swings",
+        "manic episodes",
+        "depressive episodes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "amyloidosis",
+      "patterns": [
+        "fatigue",
+        "weight loss",
+        "organ dysfunction"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_inflammatory_demyelinating_polyneuropathy_(cidp)",
+      "patterns": [
+        "weakness",
+        "numbness",
+        "tingling in limbs"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gastroesophageal_reflux_disease_(gerd)",
+      "patterns": [
+        "heartburn",
+        "acid reflux",
+        "chest pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "vitreous_hemorrhage",
+      "patterns": [
+        "floaters in vision",
+        "blurry vision",
+        "eye pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "antimicrobial_drugs_poisoning",
+      "patterns": [
+        "nausea",
+        "vomiting",
+        "diarrhea",
+        "neurological symptoms"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "scleroderma",
+      "patterns": [
+        "thickening of the skin",
+        "raynaud's phenomenon"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "myasthenia_gravis",
+      "patterns": [
+        "muscle weakness",
+        "fatigue",
+        "difficulty speaking"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hypoglycemia",
+      "patterns": [
+        "shaking",
+        "dizziness",
+        "confusion",
+        "sweating"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "idiopathic_absence_of_menstruation",
+      "patterns": [
+        "lack of menstrual periods"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "dislocation_of_the_ankle",
+      "patterns": [
+        "swelling",
+        "severe pain",
+        "inability to bear weight"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "carbon_monoxide_poisoning",
+      "patterns": [
+        "headache",
+        "dizziness",
+        "nausea",
+        "confusion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "panic_attack",
+      "patterns": [
+        "chest pain",
+        "shortness of breath",
+        "palpitations"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "plantar_fasciitis",
+      "patterns": [
+        "heel pain",
+        "tenderness",
+        "difficulty walking"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hyperopia",
+      "patterns": [
+        "difficulty seeing objects up close",
+        "blurred vision when focusing on near objects"
+      ],
+      "responses": [
+        "These symptoms may indicate a eye issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "sedatives_poisoning",
+      "patterns": [
+        "drowsiness",
+        "confusion",
+        "slowed breathing"
+      ],
+      "responses": [
+        "These symptoms may "
+      ]
+    },
+    {
+      "tag": "pemphigus",
+      "patterns": [
+        "painful blisters on the skin and mucous membranes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "peyronie_disease",
+      "patterns": [
+        "curvature of the penis",
+        "pain during erections"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hiatal_hernia",
+      "patterns": [
+        "heartburn",
+        "chest pain",
+        "difficulty swallowing"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "extrapyramidal_effect_of_drugs",
+      "patterns": [
+        "muscle stiffness",
+        "tremors",
+        "involuntary movements"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "meniere_disease",
+      "patterns": [
+        "vertigo",
+        "hearing loss",
+        "tinnitus",
+        "ear fullness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "anal_fissure",
+      "patterns": [
+        "pain during bowel movements",
+        "rectal bleeding"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_otitis_media",
+      "patterns": [
+        "ear pain",
+        "hearing loss",
+        "recurrent ear infections"
+      ],
+      "responses": [
+        "These sympt"
+      ]
+    },
+    {
+      "tag": "hirschsprung_disease",
+      "patterns": [
+        "chronic constipation",
+        "abdominal distension",
+        "failure to pass meconium (in newborns)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "polymyalgia_rheumatica",
+      "patterns": [
+        "muscle pain and stiffness",
+        "joint pain",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "lymphedema",
+      "patterns": [
+        "swelling in arms or legs",
+        "feeling of heaviness or tightness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "bladder_cancer",
+      "patterns": [
+        "blood in urine",
+        "frequent urination",
+        "pelvic pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "acute_bronchospasm",
+      "patterns": [
+        "wheezing",
+        "shortness of breath",
+        "chest tightness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "acute_glaucoma",
+      "patterns": [
+        "severe eye pain",
+        "blurred vision",
+        "halos around lights"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "dislocation_of_the_patella",
+      "patterns": [
+        "knee pain",
+        "swelling",
+        "inability to straighten the leg"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "sciatica",
+      "patterns": [
+        "pain radiating from the lower back to the leg"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hypercalcemia",
+      "patterns": [
+        "fatigue",
+        "nausea",
+        "excessive thirst",
+        "kidney stones"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "stress_incontinence",
+      "patterns": [
+        "unintentional urine leakage during physical activity"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "benign_kidney_cyst",
+      "patterns": [
+        "abdominal or flank pain",
+        "blood in urine",
+        "frequent urination"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hydrocele_of_the_testicle",
+      "patterns": [
+        "swelling of the scrotum"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hirsutism",
+      "patterns": [
+        "excessive hair growth in women"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hydronephrosis",
+      "patterns": [
+        "flank pain",
+        "urinary frequency",
+        "swelling in the abdomen"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "diverticulosis",
+      "patterns": [
+        "abdominal pain",
+        "bloating",
+        "changes in bowel movements"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pain_after_an_operation",
+      "patterns": [
+        "surgical site pain",
+        "discomfort",
+        "swelling"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "huntington_disease",
+      "patterns": [
+        "motor",
+        "cognitive",
+        "and psychiatric symptoms"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "west_nile_virus",
+      "patterns": [
+        "fever",
+        "headache",
+        "body aches",
+        "rash"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "lymphoma",
+      "patterns": [
+        "swollen lymph nodes",
+        "unexplained weight loss",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "dermatitis_due_to_sun_exposure",
+      "patterns": [
+        "redness",
+        "itching",
+        "rash",
+        "blistering"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "anemia_due_to_chronic_kidney_disease",
+      "patterns": [
+        "fatigue",
+        "weakness",
+        "pale skin"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "injury_to_internal_organ",
+      "patterns": [
+        "abdominal pain",
+        "bleeding",
+        "organ dysfunction"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "scleritis",
+      "patterns": [
+        "eye redness",
+        "severe eye pain",
+        "blurred vision"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pterygium",
+      "patterns": [
+        "growth on the conjunctiva (white part of the eye)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fungal_infection_of_the_skin",
+      "patterns": [
+        "rash",
+        "itching",
+        "redness",
+        "peeling skin"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "insulin_overdose",
+      "patterns": [
+        "low blood sugar (hypoglycemia) symptoms (e.g.",
+        "confusion",
+        "sweating)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "syndrome_of_inappropriate_secretion_of_adh_(siadh)",
+      "patterns": [
+        "excessively concentrated urine",
+        "low blood sodium levels"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "premenstrual_tension_syndrome",
+      "patterns": [
+        "mood swings",
+        "bloating",
+        "breast tenderness",
+        "irritability"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "orbital_cellulitis",
+      "patterns": [
+        "eye pain",
+        "swelling",
+        "redness",
+        "vision changes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "injury_to_the_leg",
+      "patterns": [
+        "pain",
+        "swelling",
+        "bruising",
+        "difficulty walking"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hepatic_encephalopathy",
+      "patterns": [
+        "confusion",
+        "forgetfulness",
+        "personality changes",
+        "tremors"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "bone_cancer",
+      "patterns": [
+        "bone pain",
+        "fractures",
+        "fatigue",
+        "unexplained weight loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "leishmaniasis",
+      "patterns": [
+        "skin sores",
+        "fever",
+        "weight loss",
+        "enlarged spleen or liver"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chagas_disease",
+      "patterns": [
+        "fever",
+        "fatigue",
+        "body aches",
+        "heart and digestive problems"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "syringomyelia",
+      "patterns": [
+        "muscle weakness",
+        "loss of sensation",
+        "chronic pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pulmonary_fibrosis",
+      "patterns": [
+        "shortness of breath",
+        "dry cough",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "mitral_valve_disease",
+      "patterns": [
+        "fatigue",
+        "shortness of breath",
+        "heart palpitations"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "parkinson_disease",
+      "patterns": [
+        "tremors",
+        "stiffness",
+        "slowness of movement"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gout",
+      "patterns": [
+        "intense joint pain",
+        "swelling",
+        "redness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "otitis_media",
+      "patterns": [
+        "ear pain",
+        "fever",
+        "fluid drainage from the ear"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "myelodysplastic_syndrome",
+      "patterns": [
+        "fatigue",
+        "frequent infections",
+        "easy bruising or bleeding"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fracture_of_the_shoulder",
+      "patterns": [
+        "shoulder pain",
+        "swelling",
+        "limited range of motion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "acute_kidney_injury",
+      "patterns": [
+        "decreased urine output",
+        "fluid retention",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "threatened_pregnancy",
+      "patterns": [
+        "vaginal bleeding",
+        "abdominal cramps",
+        "pelvic pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "intracranial_abscess",
+      "patterns": [
+        "headache",
+        "fever",
+        "neurological deficits"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gum_disease",
+      "patterns": [
+        "swollen",
+        "red",
+        "tender gums",
+        "bleeding gums"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "open_wound_from_surgical_incision",
+      "patterns": [
+        "redness",
+        "swelling",
+        "discharge from the wound"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gastrointestinal_hemorrhage",
+      "patterns": [
+        "abdominal pain",
+        "vomiting blood",
+        "bloody or black stools"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "seborrheic_dermatitis",
+      "patterns": [
+        "red",
+        "itchy",
+        "and oily patches of skin",
+        "dandruff",
+        "flaky scalp"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "drug_abuse_(methamphetamine)",
+      "patterns": [
+        "increased energy and alertness",
+        "decreased appetite",
+        "rapid heartbeat"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "torticollis",
+      "patterns": [
+        "neck pain",
+        "stiffness",
+        "and abnormal head positioning"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "antihypertensives_poisoning",
+      "patterns": [
+        "dizziness",
+        "low blood pressure",
+        "slow heart rate",
+        "nausea",
+        "vomiting"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "tension_headache",
+      "patterns": [
+        "mild to moderate head pain",
+        "tightness or pressure sensation on both sides of head"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "alcohol_intoxication",
+      "patterns": [
+        "slurred speech",
+        "impaired coordination",
+        "confusion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "scurvy",
+      "patterns": [
+        "fatigue",
+        "swollen and bleeding gums",
+        "joint pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "narcolepsy",
+      "patterns": [
+        "excessive daytime sleepiness",
+        "sudden loss of muscle tone (cataplexy)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "food_allergy",
+      "patterns": [
+        "rash",
+        "itching",
+        "swelling",
+        "difficulty breathing",
+        "gastrointestinal symptoms"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "labyrinthitis",
+      "patterns": [
+        "vertigo",
+        "dizziness",
+        "nausea",
+        "hearing loss",
+        "ear pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "anxiety",
+      "patterns": [
+        "excessive worrying",
+        "restlessness",
+        "increased heart rate",
+        "panic attacks"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "impulse_control_disorder",
+      "patterns": [
+        "impulsive behaviors (e.g.",
+        "gambling",
+        "stealing)",
+        "difficulty resisting urges"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "stenosis_of_the_tear_duct",
+      "patterns": [
+        "excessive tearing",
+        "eye discharge",
+        "recurrent eye infections"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "abscess_of_nose",
+      "patterns": [
+        "pain",
+        "swelling",
+        "redness",
+        "discharge from the nose"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "omphalitis",
+      "patterns": [
+        "redness",
+        "swelling",
+        "discharge",
+        "foul odor around the umbilical area"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "leukemia",
+      "patterns": [
+  "I feel very tired all the time",
+  "I have extreme fatigue",
+  "My skin looks pale",
+  "I keep getting infections",
+  "I bruise very easily",
+  "I bleed easily",
+  "I feel weak and tired",
+  "I have frequent infections and fatigue",
+  "I am always exhausted",
+  "I feel unusually weak"
+]
+,
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "bell_palsy",
+      "patterns": [
+        "facial weakness or paralysis",
+        "drooping of the mouth or eyelid"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance rishitha."
+      ]
+    },
+    {
+      "tag": "conjunctivitis_due_to_allergy",
+      "patterns": [
+        "redness",
+        "itching",
+        "watery discharge",
+        "swollen eyelids"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "drug_reaction",
+      "patterns": [
+        "rash",
+        "itching",
+        "swelling",
+        "fever",
+        "respiratory symptoms"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "adrenal_cancer",
+      "patterns": [
+        "abdominal or back pain",
+        "unexplained weight loss",
+        "hormonal imbalances"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "myopia",
+      "patterns": [
+        "blurred distance vision",
+        "eyestrain",
+        "squinting"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "osteoarthritis",
+      "patterns": [
+        "joint pain",
+        "stiffness",
+        "swelling"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "thyroid_disease",
+      "patterns": [
+        "fatigue",
+        "weight changes",
+        "mood swings",
+        "dry skin"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pharyngitis",
+      "patterns": [
+        "sore throat",
+        "difficulty swallowing",
+        "swollen lymph nodes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_rheumatic_fever",
+      "patterns": [
+        "joint pain",
+        "fever",
+        "rash",
+        "heart inflammation"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hypocalcemia",
+      "patterns": [
+        "numbness or tingling in fingers or around the mouth",
+        "muscle cramps"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "macular_degeneration",
+      "patterns": [
+        "blurred or distorted central vision",
+        "blind spots"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pneumonia",
+      "patterns": [
+        "cough",
+        "fever",
+        "chest pain",
+        "difficulty breathing"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cold_sore",
+      "patterns": [
+        "small",
+        "painful blisters on the lips or around the mouth"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "premature_ventricular_contractions_(pvcs)",
+      "patterns": [
+        "skipped or extra heartbeats",
+        "palpitations",
+        "lightheadedness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chancroid",
+      "patterns": [
+        "painful ulcers or sores on the genital area",
+        "swollen lymph nodes in the groin"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "testicular_cancer",
+      "patterns": [
+        "lump or swelling in the testicles",
+        "pain or discomfort",
+        "changes in testicular size or shape"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hydrocephalus",
+      "patterns": [
+        "headache",
+        "nausea",
+        "vomiting",
+        "cognitive or developmental problems",
+        "enlarged head in infants"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "breast_cancer",
+      "patterns": [
+        "breast lump",
+        "changes in breast size or shape",
+        "nipple changes",
+        "breast pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "anemia_due_to_malignancy",
+      "patterns": [
+        "fatigue",
+        "weakness",
+        "shortness of breath",
+        "pale skin"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "esophageal_varices",
+      "patterns": [
+        "swollen blood vessels in the esophagus",
+        "vomiting blood",
+        "black",
+        "tarry stools"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "endometrial_cancer",
+      "patterns": [
+        "abnormal vaginal bleeding",
+        "pelvic pain or discomfort",
+        "changes in bowel or bladder habits"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cystic_fibrosis",
+      "patterns": [
+        "persistent cough with thick mucus",
+        "recurrent lung infections",
+        "poor growth or weight gain",
+        "salty-tasting skin"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "intertrigo",
+      "patterns": [
+        "red",
+        "raw",
+        "or inflamed skin in skin folds (such as armpits or groin)",
+        "itching or burning sensation"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "parathyroid_adenoma",
+      "patterns": [
+        "fatigue",
+        "weakness",
+        "bone pain",
+        "frequent urination",
+        "kidney stones"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "glucocorticoid_deficiency",
+      "patterns": [
+        "fatigue",
+        "weakness",
+        "weight loss",
+        "low blood pressure",
+        "abdominal pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "temporomandibular_joint_disorder",
+      "patterns": [
+        "jaw pain or tenderness",
+        "clicking or popping sounds in the jaw joint",
+        "difficulty chewing or opening the mouth"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "wilson_disease",
+      "patterns": [
+        "fatigue",
+        "abdominal pain or swelling",
+        "jaundice",
+        "neurological symptoms (tremors",
+        "difficulty speaking or walking)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "vesicoureteral_reflux",
+      "patterns": [
+        "frequent urinary tract infections",
+        "urinary urgency or frequency",
+        "bedwetting (in children)",
+        "high blood pressure (in severe cases)"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "vitamin_a_deficiency",
+      "patterns": [
+        "night blindness",
+        "dry eyes",
+        "dry or rough skin",
+        "poor wound healing",
+        "weakened immune system"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gonorrhea",
+      "patterns": [
+        "painful urination",
+        "abnormal discharge from the genitals",
+        "pelvic pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fracture_of_the_rib",
+      "patterns": [
+        "chest pain",
+        "difficulty breathing",
+        "tenderness or swelling over the ribcage"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "ependymoma",
+      "patterns": [
+        "headaches",
+        "nausea",
+        "seizures",
+        "changes in coordination or balance"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hepatitis_due_to_a_toxin",
+      "patterns": [
+        "fatigue",
+        "jaundice",
+        "abdominal pain",
+        "nausea",
+        "vomiting"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "vaginal_cyst",
+      "patterns": [
+        "small lump or swelling in the vaginal wall",
+        "discomfort or pain during intercourse"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_knee_pain",
+      "patterns": [
+        "persistent knee pain",
+        "stiffness",
+        "swelling",
+        "limited range of motion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pinguecula",
+      "patterns": [
+        "yellowish or white growth on the conjunctiva (eye's surface)",
+        "usually near the cornea"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hypergammaglobulinemia",
+      "patterns": [
+        "elevated levels of gamma globulins in the blood",
+        "may be asymptomatic or associated with other underlying conditions"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pituitary_disorder",
+      "patterns": [
+        "various symptoms depending on the specific disorder",
+        "including hormonal imbalances"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "kidney_stone",
+      "patterns": [
+        "severe pain in the side or back",
+        "blood in the urine",
+        "frequent urination"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "autism",
+      "patterns": [
+        "challenges with social interaction",
+        "communication difficulties",
+        "restricted interests or repetitive behaviors"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cat_scratch_disease",
+      "patterns": [
+        "swollen lymph nodes",
+        "fever",
+        "fatigue",
+        "headache",
+        "rash"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_glaucoma",
+      "patterns": [
+        "gradual vision loss",
+        "peripheral vision impairment",
+        "eye pain or discomfort",
+        "halos around lights"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "retinal_detachment",
+      "patterns": [
+        "floaters (spots or cobweb-like shapes in vision)",
+        "flashes of light",
+        "curtain-like shadow over vision",
+        "sudden vision loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "aplastic_anemia",
+      "patterns": [
+        "fatigue",
+        "pale skin",
+        "frequent infections",
+        "shortness of breath",
+        "rapid or irregular heartbeats",
+        "prolonged bleeding or bruising"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "overflow_incontinence",
+      "patterns": [
+        "frequent or constant dribbling of urine",
+        "inability to completely empty the bladder",
+        "weak urine stream"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "rabies",
+      "patterns": [
+        "flu-like symptoms (fever",
+        "headache",
+        "fatigue)",
+        "anxiety",
+        "confusion",
+        "hallucinations",
+        "difficulty swallowing"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hemolytic_anemia",
+      "patterns": [
+        "fatigue",
+        "weakness",
+        "pale skin",
+        "shortness of breath",
+        "jaundice"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "lateral_epicondylitis_(tennis_elbow)",
+      "patterns": [
+        "pain or tenderness on the outer side of the elbow",
+        "weak grip strength",
+        "difficulty with forearm movements"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "syphilis",
+      "patterns": [
+        "primary stage: painless sores (chancre) at the site of infection",
+        "secondary stage: skin rash",
+        "fever",
+        "swollen lymph nodes",
+        "sore throat",
+        "latent stage: no symptoms",
+        "tertiary stage: severe complications affecting the heart",
+        "brain",
+        "and other organs"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "diabetic_kidney_disease",
+      "patterns": [
+        "high blood pressure",
+        "increased need to urinate",
+        "swelling in the legs and ankles",
+        "fatigue",
+        "nausea",
+        "loss of appetite"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "nose_disorder",
+      "patterns": [
+        "nasal congestion",
+        "runny nose",
+        "sneezing",
+        "facial pain or pressure",
+        "loss of smell"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "drug_withdrawal",
+      "patterns": [
+        "anxiety",
+        "restlessness",
+        "irritability",
+        "tremors",
+        "sweating",
+        "nausea",
+        "vomiting",
+        "insomnia",
+        "drug cravings"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "dental_caries",
+      "patterns": [
+        "toothache",
+        "tooth sensitivity",
+        "visible pits or holes in the teeth",
+        "dark spots on the teeth",
+        "bad breath"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hypercholesterolemia",
+      "patterns": [
+        "high levels of cholesterol in the blood",
+        "fatty deposits (xanthomas) on the skin or tendons",
+        "chest pain or angina",
+        "heart attacks",
+        "strokes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fracture_of_the_patella",
+      "patterns": [
+        "severe pain",
+        "swelling",
+        "bruising",
+        "difficulty straightening or bending the knee",
+        "deformity"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "kidney_failure",
+      "patterns": [
+        "decreased urine output",
+        "fluid retention",
+        "fatigue",
+        "shortness of breath",
+        "nausea",
+        "confusion",
+        "chest pain",
+        "seizures"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fracture_of_the_neck",
+      "patterns": [
+        "severe neck pain",
+        "swelling",
+        "tenderness",
+        "difficulty moving or turning the head",
+        "numbness or weakness in the arms or legs"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "muscle_spasm",
+      "patterns": [
+        "sudden",
+        "involuntary muscle contractions",
+        "muscle pain",
+        "stiffness",
+        "limited range of motion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hemophilia",
+      "patterns": [
+        "excessive bleeding and bruising",
+        "prolonged bleeding from wounds or after dental work or surgery",
+        "spontaneous bleeding in joints or muscles"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hyperosmotic_hyperketotic_state",
+      "patterns": [
+        "increased blood sugar levels",
+        "increased ketone production",
+        "excessive thirst",
+        "frequent urination",
+        "fatigue",
+        "confusion",
+        "fruity breath odor"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "peritonsillar_abscess",
+      "patterns": [
+        "severe sore throat",
+        "difficulty swallowing",
+        "fever",
+        "swollen tonsils",
+        "voice changes",
+        "neck pain or stiffness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gastroparesis",
+      "patterns": [
+        "nausea",
+        "vomiting",
+        "early satiety",
+        "bloating",
+        "abdominal pain",
+        "poor appetite"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fat_embolism",
+      "patterns": [
+        "respiratory distress",
+        "chest pain",
+        "confusion",
+        "petechial rash (small red or purple spots)",
+        "neurological symptoms"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "polycythemia_vera",
+      "patterns": [
+        "increased red blood cell count",
+        "fatigue",
+        "headache",
+        "dizziness",
+        "itching",
+        "enlarged spleen"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "thrombocytopenia",
+      "patterns": [
+        "easy bruising",
+        "prolonged bleeding from cuts",
+        "petechiae (red or purple spots on the skin)",
+        "nosebleeds",
+        "excessive menstrual bleeding"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "head_and_neck_cancer",
+      "patterns": [
+        "persistent sore throat",
+        "difficulty swallowing",
+        "voice changes",
+        "ear pain",
+        "neck mass",
+        "weight loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pseudohypoparathyroidism",
+      "patterns": [
+        "hypocalcemia (low calcium levels)",
+        "tetany (muscle spasms)",
+        "short stature",
+        "rounded face"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "goiter",
+      "patterns": [
+        "enlarged thyroid gland in the neck",
+        "swelling or visible protrusion",
+        "difficulty swallowing or breathing"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "urge_incontinence",
+      "patterns": [
+        "sudden",
+        "intense urge to urinate followed by involuntary urine leakage"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "edward_syndrome",
+      "patterns": [
+        "developmental delays",
+        "intellectual disability",
+        "distinct facial features (small jaw",
+        "low-set ears)",
+        "heart defects"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "muscular_dystrophy",
+      "patterns": [
+        "progressive muscle weakness and degeneration",
+        "difficulty walking or moving",
+        "muscle wasting"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "mittelschmerz",
+      "patterns": [
+        "lower abdominal pain and discomfort occurring around the time of ovulation"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "corneal_abrasion",
+      "patterns": [
+        "eye pain",
+        "redness",
+        "foreign body sensation",
+        "sensitivity to light"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "anemia_of_chronic_disease",
+      "patterns": [
+        "fatigue",
+        "weakness",
+        "pale skin",
+        "shortness of breath",
+        "decreased exercise tolerance"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "dysthymic_disorder",
+      "patterns": [
+        "persistent depressive symptoms (low mood",
+        "lack of interest",
+        "changes in sleep and appetite)",
+        "lasting for at least two years"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "scarlet_fever",
+      "patterns": [
+        "sore throat",
+        "fever",
+        "rash (red",
+        "sandpaper-like)",
+        "swollen glands"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hypertensive_heart_disease",
+      "patterns": [
+        "high blood pressure",
+        "chest pain or discomfort",
+        "shortness of breath",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "drug_abuse_(barbiturates)",
+      "patterns": [
+        "sedation",
+        "drowsiness",
+        "slurred speech",
+        "confusion",
+        "respiratory depression"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "polycystic_ovarian_syndrome",
+      "patterns": [
+        "irregular periods",
+        "excessive hair growth",
+        "acne",
+        "weight gain",
+        "ovarian cysts"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "encephalitis",
+      "patterns": [
+        "headache",
+        "fever",
+        "confusion",
+        "seizures",
+        "neurological symptoms"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cyst_of_the_eyelid",
+      "patterns": [
+        "painful lump or swelling on the eyelid",
+        "redness",
+        "tenderness"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "balanitis",
+      "patterns": [
+        "inflammation of the glans penis (tip of the penis)",
+        "redness",
+        "swelling",
+        "pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "foreign_body_in_the_throat",
+      "patterns": [
+        "sensation of a foreign object stuck in the throat",
+        "difficulty swallowing or speaking"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "drug_abuse_(cocaine)",
+      "patterns": [
+        "euphoria",
+        "increased energy",
+        "dilated pupils",
+        "rapid heart rate",
+        "high blood pressure",
+        "risk of heart attack or stroke"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "optic_neuritis",
+      "patterns": [
+        "vision loss or blurry vision",
+        "eye pain with eye movement",
+        "color vision impairment",
+        "flashing lights or floaters"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "intestinal_malabsorption",
+      "patterns": [
+        "chronic diarrhea",
+        "weight loss",
+        "abdominal pain or bloating",
+        "nutrient deficiencies (vitamins",
+        "minerals)",
+        "fatigue",
+        "failure to thrive"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "lead_poisoning",
+      "patterns": [
+        "fatigue",
+        "abdominal pain",
+        "joint pain",
+        "memory loss or cognitive difficulties",
+        "developmental delays (in children)",
+        "anemia"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "viral_warts",
+      "patterns": [
+        "small",
+        "rough growths on the skin or mucous membranes",
+        "typically painless",
+        "may appear in clusters or as single lesions"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hyperhidrosis",
+      "patterns": [
+        "excessive sweating (beyond what is necessary for temperature regulation)",
+        "typically in specific areas (such as palms",
+        "soles",
+        "underarms)",
+        "may interfere with daily activities"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "stroke",
+      "patterns": [
+        "sudden numbness or weakness of the face",
+        "arm",
+        "or leg (typically on one side of the body)",
+        "confusion",
+        "trouble speaking or understanding",
+        "severe headache"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pilonidal_cyst",
+      "patterns": [
+        "pain or discomfort in the tailbone area",
+        "swelling",
+        "redness",
+        "drainage of pus or blood",
+        "abscess formation"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "crushing_injury",
+      "patterns": [
+        "severe pain",
+        "swelling",
+        "deformity",
+        "bruising",
+        "difficulty moving or using the affected area"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "normal_pressure_hydrocephalus",
+      "patterns": [
+        "gait disturbances",
+        "urinary incontinence",
+        "cognitive decline or dementia-like symptoms"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "alopecia",
+      "patterns": [
+        "hair loss or balding",
+        "patchy or generalized hair loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hashimoto_thyroiditis",
+      "patterns": [
+        "fatigue",
+        "weight gain",
+        "constipation",
+        "dry skin",
+        "depression",
+        "muscle aches and stiffness",
+        "sensitivity to cold"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "flat_feet",
+      "patterns": [
+        "foot pain or achiness",
+        "difficulty with foot and ankle movement",
+        "foot fatigue",
+        "swelling"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "nonalcoholic_liver_disease_(nash)",
+      "patterns": [
+        "fatigue",
+        "abdominal swelling or pain",
+        "enlarged liver",
+        "elevated liver enzymes",
+        "insulin resistance"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hemarthrosis",
+      "patterns": [
+        "joint swelling",
+        "pain",
+        "warmth",
+        "limited range of motion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pelvic_organ_prolapse",
+      "patterns": [
+        "pelvic pressure or heaviness",
+        "urinary incontinence",
+        "bowel movement difficulties",
+        "discomfort or pain during intercourse"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "fracture_of_the_arm",
+      "patterns": [
+        "pain",
+        "swelling",
+        "deformity",
+        "limited mobility or difficulty moving the arm",
+        "bruising"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "coagulation_(bleeding)_disorder",
+      "patterns": [
+        "easy bruising",
+        "prolonged bleeding after injury or surgery",
+        "excessive bleeding from minor cuts or abrasions",
+        "frequent nosebleeds",
+        "heavy menstrual bleeding"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "intracranial_hemorrhage",
+      "patterns": [
+        "severe headache",
+        "nausea or vomiting",
+        "changes in vision",
+        "loss of consciousness",
+        "seizures"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "hyperkalemia",
+      "patterns": [
+        "muscle weakness or fatigue",
+        "irregular heartbeat or palpitations",
+        "numbness or tingling",
+        "nausea or vomiting"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cornea_infection",
+      "patterns": [
+        "eye redness",
+        "pain or discomfort",
+        "blurred or decreased vision",
+        "increased sensitivity to light"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "abscess_of_the_lung",
+      "patterns": [
+        "cough with phlegm or pus",
+        "chest pain",
+        "fever",
+        "shortness of breath",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "dengue_fever",
+      "patterns": [
+        "high fever",
+        "severe headache",
+        "joint and muscle pain",
+        "rash",
+        "nausea or vomiting",
+        "bleeding tendencies"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_sinusitis",
+      "patterns": [
+        "facial pain or pressure",
+        "nasal congestion",
+        "thick nasal discharge",
+        "postnasal drip",
+        "cough",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "cholesteatoma",
+      "patterns": [
+        "ear pain",
+        "hearing loss",
+        "ear drainage",
+        "dizziness or vertigo",
+        "tinnitus"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "volvulus",
+      "patterns": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bloating",
+        "constipation",
+        "bloody stool"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "injury_to_the_finger",
+      "patterns": [
+        "pain",
+        "swelling",
+        "bruising",
+        "deformity",
+        "restricted range of motion",
+        "difficulty gripping or using the finger"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "poisoning_due_to_analgesics",
+      "patterns": [
+        "nausea",
+        "vomiting",
+        "abdominal pain",
+        "liver or kidney damage",
+        "dizziness",
+        "confusion",
+        "respiratory distress"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "atrial_fibrillation",
+      "patterns": [
+        "irregular or rapid heartbeat",
+        "palpitations",
+        "shortness of breath",
+        "chest pain or discomfort",
+        "dizziness or lightheadedness",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "pinworm_infection",
+      "patterns": [
+        "itching around the anus or vagina",
+        "restless sleep",
+        "irritability",
+        "anal or vaginal discharge",
+        "abdominal pain or discomfort",
+        "loss of appetite"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "urethral_valves",
+      "patterns": [
+        "difficulty or poor urinary stream",
+        "urinary tract infections",
+        "urinary frequency or urgency",
+        "abdominal distension",
+        "poor weight gain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "migraine",
+      "patterns": [
+        "severe headaches",
+        "nausea",
+        "sensitivity to light and sound"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "arthritis",
+      "patterns": [
+        "joint pain",
+        "stiffness",
+        "swelling"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "sciatica",
+      "patterns": [
+        "lower back pain",
+        "leg pain",
+        "numbness or tingling"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "complex_regional_pain_syndrome_(crps)",
+      "patterns": [
+        "intense burning pain",
+        "swelling",
+        "changes in skin temperature"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "lupus",
+      "patterns": [
+        "joint pain",
+        "fatigue",
+        "skin rashes"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "endometriosis",
+      "patterns": [
+        "pelvic pain",
+        "painful periods",
+        "infertility"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "chronic_headache",
+      "patterns": [
+        "persistent head pain",
+        "tension in neck and shoulders"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "dry_skin",
+      "patterns": [
+        "dry",
+        "flaky skin with itching"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "eczema",
+      "patterns": [
+        "itchy",
+        "red",
+        "inflamed skin",
+        "rash"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "psoriasis",
+      "patterns": [
+        "red",
+        "scaly patches on the skin",
+        "itching"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "scabies",
+      "patterns": [
+        "intense itching",
+        "especially at night",
+        "small blisters or bumps"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "urticaria_(hives)",
+      "patterns": [
+        "raised",
+        "itchy welts on the skin"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "insect_bites",
+      "patterns": [
+        "red",
+        "swollen",
+        "itchy bumps"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "contact_dermatitis",
+      "patterns": [
+        "itchy",
+        "red rash caused by contact with irritants or allergens"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "dermatitis_due_to_sun_exposure",
+      "patterns": [
+        "sunburn-like rash",
+        "redness",
+        "itching"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "parasitic_infections",
+      "patterns": [
+        "intense itching",
+        "visible lice or nits in the affected area"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "influenza_(flu)",
+      "patterns": [
+        "high fever",
+        "body aches",
+        "fatigue",
+        "cough",
+        "sore throat",
+        "congestion"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "urinary_tract_infection_(uti)",
+      "patterns": [
+        "frequent urination",
+        "burning sensation during urination",
+        "cloudy or bloody urine",
+        "pelvic pain"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "bronchitis",
+      "patterns": [
+        "persistent cough with yellow or green mucus",
+        "chest congestion",
+        "fatigue"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "gastroenteritis_(stomach_flu)",
+      "patterns": [
+        "nausea",
+        "vomiting",
+        "diarrhea",
+        "abdominal pain or cramps",
+        "fever"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "urinary_stones_(kidney_stones)",
+      "patterns": [
+        "severe abdominal or back pain",
+        "blood in urine",
+        "frequent urination",
+        "pain during urination"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "osteoporosis",
+      "patterns": [
+        "fragile bones",
+        "loss of height over time",
+        "back pain",
+        "fractures"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "rheumatoid_arthritis",
+      "patterns": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "fatigue",
+        "loss of appetite"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "type_1_diabetes",
+      "patterns": [
+        "frequent urination",
+        "increased thirst",
+        "weight loss"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    },
+    {
+      "tag": "type_2_diabetes",
+      "patterns": [
+        "fatigue",
+        "increased hunger",
+        "slow healing of wounds"
+      ],
+      "responses": [
+        "These symptoms may indicate a health-related issue. Please consult a healthcare professional for proper guidance."
+      ]
+    }
+  ]
+}
+
